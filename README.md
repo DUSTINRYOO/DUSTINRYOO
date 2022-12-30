@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DUSTINRYOO
-- 👀 I’m interested in software engineer.
+- 👀 I’m interested in being software engineer.
 - 🌱 I’m currently learning web and mobile app development.
 - 💞️ I’m looking to collaborate on something in the future
 - 📫 How to reach me : TBD
